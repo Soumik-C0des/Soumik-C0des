@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Soumik
 - 👀 I’m interested in Physics, astronomy, programming and music
 - 🌱 I’m currently learning java and Game developing
-- 💞️ I’m looking to collaborate on Guitar solos and projects
-- 📫 How to reach me- ssr.maplr@gmail.com
+- 💞️ I’m looking to collaborate on Guitar solos and python projects
+- 📫 How to reach me- ssr.maple@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My voice assistant ARCHIS(A Randomly Created Hyper-Intelligent System) says that i am tech savy 😎
 
